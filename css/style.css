@@ -4,12 +4,32 @@ header {
     border: 1px dashed black;
 }
 .riga {
-   
+    border: 1 px dashed white;
+}
+#jumbotron {
+    height: 250px;
+    border: 1px solid purple;
+}
+#portfolio {
+    height: 300px;
+    border: 1px solid purple;
+}
+.about-us {
+    height: 300px;
+    border: 1px solid purple;
+}
+.form {
+    height: 150px;
+    border: 1px solid purple;
+}
+footer {
+    height: 200px;
+    border: 1px solid purple;
 }
 .colonna {
-    height: 100px;
-    background-color: pink;
-    border: 1px solid black;
+    height: 40px;
+    background-color: lightseagreen;
+    border: 1px dashed black;
 }
 .lista {
 
