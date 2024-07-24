@@ -3,7 +3,10 @@ header {
     background-color: coral;
     border: 1px dashed black;
 }
-.col {
+.riga {
+   
+}
+.colonna {
     height: 100px;
     background-color: pink;
     border: 1px solid black;
