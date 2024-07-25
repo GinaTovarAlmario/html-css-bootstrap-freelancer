@@ -12,7 +12,6 @@
 }
 section {
     min-height: 500px;
-    border: 1px dashed blueviolet;
 }
 .colonna {
     min-height: 40px;
@@ -32,6 +31,9 @@ section {
 /* sezione footer */
 .footer-top {
     min-height: 300px;
+}
+.text-enfasi {
+    color: #1abd9c;
 }
 .footer-bottom {
     min-height: 90px;
