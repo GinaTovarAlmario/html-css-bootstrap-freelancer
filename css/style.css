@@ -1,6 +1,9 @@
 /* navbar */
-.bg-dark-navbar {
+.bg-dark-blue {
     background-color:#2b3d4f;
+}
+.star-color {
+    color:#2b3d4f;
 }
 /* jumbotron */
 .bg-project {
@@ -43,4 +46,11 @@ section {
 }
 .bg-footer-bottom {
     background-color: #2b3d4f;
+}
+
+.pippo {
+    color:#3a556e;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
 }
