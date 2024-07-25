@@ -29,3 +29,16 @@ section {
 #info ::placeholder {
     color:black;
 }
+/* sezione footer */
+.footer-top {
+    min-height: 300px;
+}
+.footer-bottom {
+    min-height: 90px;
+}
+.bg-footer-top {
+    background-color: #3a556e;
+}
+.bg-footer-bottom {
+    background-color: #2b3d4f;
+}
