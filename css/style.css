@@ -2,6 +2,10 @@
 .bg-dark-navbar {
     background-color:#2b3d4f;
 }
+/* jumbotron */
+.bg-jumbo {
+    background-color: #1abd9c;
+}
 section {
     min-height: 500px;
     border: 1px dashed blueviolet;
