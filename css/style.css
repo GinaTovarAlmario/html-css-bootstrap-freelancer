@@ -1,6 +1,7 @@
-/* .navbar {
-    height: 100px;
-} */
+/* navbar */
+.bg-dark-navbar {
+    background-color:#2b3d4f;
+}
 section {
     min-height: 500px;
     border: 1px dashed blueviolet;
