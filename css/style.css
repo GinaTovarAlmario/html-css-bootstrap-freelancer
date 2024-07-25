@@ -4,11 +4,11 @@ header {
     border: 1px dashed black;
 }
 section {
-    height: 400px;
+    min-height: 500px;
     border: 1px dashed blueviolet;
 }
 .colonna {
-    height: 40px;
+    min-height: 40px;
     background-color: lightseagreen;
     border: 1px dashed black;
 }
