@@ -1,6 +1,6 @@
-header {
-    min-height: 80px;
-}
+/* .navbar {
+    height: 100px;
+} */
 section {
     min-height: 500px;
     border: 1px dashed blueviolet;
