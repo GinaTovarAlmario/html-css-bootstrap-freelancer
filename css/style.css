@@ -1,7 +1,5 @@
 header {
-    height: 80px;
-    background-color: coral;
-    border: 1px dashed black;
+    min-height: 80px;
 }
 section {
     min-height: 500px;
@@ -12,6 +10,7 @@ section {
     background-color: lightseagreen;
     border: 1px dashed black;
 }
+/* sezione info e form */
 .btn-acqua {
     background-color: #1abd9c;
 }
