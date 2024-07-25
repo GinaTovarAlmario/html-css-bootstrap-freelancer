@@ -12,3 +12,12 @@ section {
     background-color: lightseagreen;
     border: 1px dashed black;
 }
+.btn-acqua {
+    background-color: #1abd9c;
+}
+.btn-acqua:hover {
+    background-color: #1abd9c;
+}
+#info ::placeholder {
+    color:black;
+}
