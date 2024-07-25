@@ -3,8 +3,12 @@
     background-color:#2b3d4f;
 }
 /* jumbotron */
-.bg-jumbo {
+.bg-project {
     background-color: #1abd9c;
+}
+/* about */
+.btn-bordo {
+    border-color: white;
 }
 section {
     min-height: 500px;
